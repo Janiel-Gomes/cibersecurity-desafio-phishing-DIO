@@ -1,10 +1,11 @@
 # cibersecurity-desafio-phishing-DIO
 Phishing para captura de senhas do Google
 
-Ferramentas
+# Ferramentas
 Kali Linux
 setoolkit
-Configurando o Phishing no Kali Linux
+
+# Configurando o Phishing no Kali Linux
 Acesso root: sudo su
 Iniciando o setoolkit: setoolkit
 Tipo de ataque: Social-Engineering Attacks
@@ -14,4 +15,4 @@ Método de ataque: Site Cloner
 Obtendo o endereço da máquina: ifconfig
 URL para clone: https://www.google.com/
 
-Resutados
+# Resutados
