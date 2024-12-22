@@ -17,10 +17,11 @@ Vetor de ataque: Web Site Attack Vectors
 
 Método de ataque: Credential Harvester Attack Method 
 
-Método de ataque: Site Cloner
+Método de ataque: Web Templates
 
 Obtendo o endereço da máquina: ifconfig
 
-URL para clone: https://www.google.com/
+Escolhe o templat: google.com
 
 # Resutados
+![WhatsApp Image 2024-12-22 at 14 06 27](https://github.com/user-attachments/assets/1a1430a7-13b0-4034-8079-f5f8a3a24c4c)
